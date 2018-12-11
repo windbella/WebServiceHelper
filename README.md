@@ -1,6 +1,6 @@
 ### GZIP Response
 
-.NET 웹서비스 (ASMX)를 이용하여 JSON이나 XML을 Response하게되는 API를 구성하는 경우가 많다.
+.NET 웹서비스(ASMX)를 이용하여 JSON이나 XML을 Response하게되는 API를 구성하는 경우가 많다.
 
 웹서버 자체에 GZIP 기능이 있는 경우도 있지만 그렇지 않은 경우도 있기 때문에
 
